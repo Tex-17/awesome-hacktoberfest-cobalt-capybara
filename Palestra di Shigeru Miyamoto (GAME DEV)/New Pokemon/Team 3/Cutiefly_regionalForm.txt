@@ -1,0 +1,15 @@
+Cutiefly - regional form - Poison/Bug Type
+
+Description:
+"Unlike its Alolan counterpart, which thrives on sweet nectar, this Cutiefly struggles to find any in its harsh environment. Instead, it has adapted to feed on environmental toxins, storing venom in its body and releasing it through its sting to paralyze or poison foes. This regional form detects toxic chemicals in the air using his antennas, making it a formidable opponent despite its innocent appearance. In the absence of pollen, this cutiefly is unable to evolve."
+
+Stats:
+
+HP:	60
+ATK:	95
+DEF:	55
+Sp.ATK:	55
+sp.DEF:	75
+SPEED:	124
+
+TOT:	464
